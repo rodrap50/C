@@ -1,0 +1,10 @@
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\obj\Debug\GetRegitryInfo.csprojAssemblyReference.cache
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\obj\Debug\GetRegitryInfo.Form1.resources
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\obj\Debug\GetRegitryInfo.Properties.Resources.resources
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\obj\Debug\GetRegitryInfo.csproj.GenerateResource.cache
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\obj\Debug\GetRegitryInfo.csproj.CoreCompileInputs.cache
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\bin\Debug\GetRegitryInfo.exe.config
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\bin\Debug\GetRegitryInfo.exe
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\bin\Debug\GetRegitryInfo.pdb
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\obj\Debug\GetRegitryInfo.exe
+C:\Users\u09033\source\repos\GetRegitryInfo\GetRegitryInfo\obj\Debug\GetRegitryInfo.pdb
